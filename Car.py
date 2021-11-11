@@ -30,7 +30,7 @@ class Car:
         else:
             print("You can't roll back an odometer!")
 
-if __name__ =='__main__':
+if __name__ == '__main__':
     my_new_car = Car('audi', 'a4', 2019)
     my_new_car.meter()
     my_new_car.um(int(input("Enter mileage: ")))
