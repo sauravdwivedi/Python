@@ -11,4 +11,4 @@ I write code to solve problems from:
 
 > Go to directory where script is saved
 
-> % python <script_name>.py
+> % python3 <script_name>.py
