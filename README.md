@@ -7,6 +7,10 @@ I write code to solve problems from:
 - https://www.hackerrank.com/
 - https://code-exercises.com/
 
+For RESTful API examples of Python, please refer to:
+
+- https://github.com/sauravdwivedi/Microservices/tree/main/Python
+
 #### How to run
 
 > Go to directory where script is saved
